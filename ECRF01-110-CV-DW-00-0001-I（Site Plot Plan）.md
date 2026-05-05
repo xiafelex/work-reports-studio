@@ -1,0 +1,737 @@
+# ECRF01-110-CV-DW-00-0001-I（Site Plot Plan）
+
+- Source: `ECRF01-110-CV-DW-00-0001-I（Site Plot Plan）.pdf`
+- Conversion: `pdftotext` pdf -> txt -> md
+- Note: This PDF appears to be a drawing/layout file, so extracted text may be fragmented.
+
+JALAN
+
+IPIL
+
+4
+
+4
+
+IPIL
+
+JALAN
+
+IPIL
+
+3
+
+677
+527
+(D) 180
+E
+HS
+OR
+PLO
+FSH )
+OF
+SIA
+KTL
+.
+LAY
+HD
+(MA
+N.B
+SD
+P)
+OR
+(JC
+
+JALAN
+
+46
+6
+PLO
+D 496
+PT 550412
+SIA
+(D)
+HS
+LAY RHAD
+M MA BE
+MS INGS
+LD
+HO
+
+1
+D 495
+PT 549882
+(D)
+HS
+
+JALAN
+
+IPIL
+
+5
+
+L
+
+INA
+RM
+TE HD.
+B
+IDS
+LIP SDN. 94
+PLO
+
+66
+D 49
+PT 550412
+IA
+YS
+(D)
+D
+HS
+ALA HA
+M M S BER
+MS
+ING
+LD
+HO
+46
+PLO
+
+H
+
+A
+
+H
+
+I
+
+3
+
+T 792324
+LO
+246
+PA
+
+1
+
+23
+T 79 24
+LO
+2463
+68
+PA
+PLO
+
+S
+ES T
+OC
+PR
+LAN
+AN SIA P
+RM
+NO ALAY BHD.
+S M SDN.
+47
+D 50
+4966
+PT
+56
+(D)
+HS LO 13
+P
+
+1
+
+OIL
+
+N=-19029.00
+E=416061.00
+
+27
+D 40 1
+ED
+PT
+12
+LIS
+PLO NTRA
+CE D.
+H
+AT
+GS DN. B
+)
+S
+(TLP
+
+PLO
+
+25
+
+N=-39745.00
+E=56633.00
+
+JA
+LA
+N
+
+4
+
+D
+
+N=-45828.00
+E=357932.00
+
+4
+A
+
+N=-53328.00
+E=282032.00
+
+S
+LAY
+(MA
+GY HD.
+ER
+B
+EN DN.
+P)
+S
+OR 99
+(JC
+5272
+(D)
+HS PLO 49
+
+IPIL
+
+N=-45828.00
+E=278632.00
+
+N=-48266.91
+E=260332.00
+
+MA
+PU
+
+N= -44029.00
+E=472061.00
+
+C
+
+1
+
+3#pipe gallery
+
+LA
+N
+
+N=-48266.91
+E=81332.00
+
+N=-45267.00
+E=71632.36
+
+GY
+ER
+EN IA)
+MA LAYSP)
+(MA COR 19
+(J
+50 05
+PTD) 5633 4
+22
+(D
+HS PLO
+IA)
+
+PU
+
+36
+D 39 58
+PT 4562
+D
+(D)
+HS LO 25
+P
+
+R
+
+A
+A -47697.000
+B 408905.000
+
+N=-45267.00
+E=18632.00
+
+TE
+NG
+A
+
+E
+7031 45 L ON
+1475MINA
+PA
+R
+D.
+T TE . BH
+N
+SD
+)
+(TLP
+
+JA
+
+N=-33967.00
+E=25638.60
+
+JA
+
+LA
+N
+
+IPIL
+
+FE
+3
+LD
+SD A-JO
+N.B HO
+H D RE
+. (J BU
+HS PLO COR LKE
+RS
+(D
+P)
+3
+PT ) 537
+D 4 67
+86 3
+2
+
+LAN
+
+2
+
+A
+
+JA
+LA
+
+N
+
+SA
+
+NG
+LA
+
+First floor plan of Auxiliary room
+
+1
+
+TE
+NG
+
+AR
+
+AT
+GS
+LAN HD.
+NG N. B
+NJU SD C
+TA ORT
+P PLO 25
+
+3
+
+2#pipe gallery
+
+4#pipe gallery
+1#pipe gallery
+
+7
+9500
+
+6
+
+5
+
+4
+
+3
+
+2550
+
+2
+
+1
+
+25630
+4630
+
+3000
+
+4000
+2050
+
+7000
+
+7000
+
+1575
+
+1950
+
+CHANGING
+ROOM
+
+TOILET
+
+1500
+
+A
+2725
+
+A
+
+800
+
+700
+
+7
+
+IPIL
+
+8
+
+9
+
+BRIEFING AREA
+
+FIRE CONTROL CENTRE
+
+GUARDHOUSE
+
+4700
+
+CORRIDOR
+
+4700
+
+SUCTION PUMP ROOM
+
+DESPATCH
+OFFICE
+
+LOBBY
+
+46
+PLO 966
+D 4 0412
+PT
+55
+IA
+(D)
+YS AD
+S
+A
+L
+H
+A
+RH
+M M S BE
+S
+M
+G
+DIN
+L
+HO
+
+1975
+
+B
+
+300
+
+B
+
+300
+
+N=-110267.00
+E=18632.00
+
+N=-110267.00
+E=71632.36
+
+2m x 2m x 3m
+WS3704
+
+10m x 4m x 3m
+WS3701
+
+N=-114267.00
+E=81332.00
+
+12m x 3m x 3m
+WS3702
+
+7mx3mx3m
+WS3706
+
+N=-113828.00
+E=357932.00
+
+N=-133745.00
+E=276233.00
+N=-137843.00
+E=75993.00
+
+N=-137843.00
+E=131494.00
+
+N=-137843.00
+E=244494.00
+
+15m x4m x4m
+(OS3712)
+
+16m x5m x3.5m
+WS3710
+
+N=-137843.00
+E=410394.00
+M
+
+N=-137843.00
+E=272094.00
+
+M
+
+10m x6m x3m
+WS3709
+
+14mx4mx4m
+(OS3711)
+
+JALAN
+
+N=-130643.63
+E=65632.60
+
+250
+
+N=-130943.63
+E=19432.60
+
+N=-113828.00
+E=278632.00
+
+N=-114267.00
+E=260332.00
+
+³
+7m x4m x2.5m
+WS3708
+
+A
+
+³
+
+³
+
+B
+
+C
+
+D
+
+1
+
+2
+
+3
+
+4
+
+5
+
+³
+
+³
+
+N=-206643.63A
+E=19132.60
+
+N=-206643.63
+E=65632.60
+
+N=-207845.00
+E=144393.00
+
+G
+
+1
+
+N=-213843.00
+E=272094.00
+N=-213843.00
+E=110493.00
+
+3
+
+N=-212843.00
+E=131494.00
+
+N=-213843.00
+E=416894.00
+
+N=-212843.00
+E=244494.00
+
+N=-227515.00
+E=144393.00
+
+JALAN
+
+IPIL
+
+5
+
+L
+A
+IN
+M
+ER D.
+T
+S
+H
+D
+B
+I
+.
+P
+LI SDN 94
+PLO
+
+3
+792 4
+T
+LO 4632
+2
+PA
+
+I
+
+ISSUED FOR DESIGN
+
+CV
+
+Gao Xiaolong
+Xing Wenquan
+Liang Xinmin
+
+H
+
+ISSUED FOR DESIGN
+
+CV
+
+Gao Xiaolong
+Xing Wenquan
+Liang Xinmin
+
+G
+
+ISSUED FOR DESIGN
+
+CV
+
+Gao Xiaolong
+Xing Wenquan
+Liang Xinmin
+
+专 业
+
+设
+
+版次
+REV.
+
+说
+
+明
+
+DESCRIPTION
+
+业主文件编号
+JOB NO.
+
+DISP.
+
+PRED
+
+计
+
+校
+CHKD
+
+对
+
+审
+REVD
+
+核
+
+审
+
+20230824
+20230810
+20230525
+日 期
+
+定
+
+APPR
+
+DATE
+
+页
+
+次
+
+SHEET NO.
+ECRF01-110-CV-DW-00-0001
+
+1 OF 1
+
+EcoCeres Renewable Fuels Sdn.Bhd.(1463815-P)
+
+中石油华东设计院有限公司
+CNPC EASTCHINA DESIGN INSTITUTE CO., LTD.
+
+1
+EcoCeres Malaysia Renewable Document
+Fuels Class
+Project
+设计阶段
+DESIGN STAGE
+
+Detail Design
+
+图 幅 A1
+比 PLAN
+例 1:1000
+PLOT/GRADING/EARTH WORK SCALE
+SITE
+SIZE
+
+SITE PLOT PLAN
+会签专业
+
+会签人
+
+CHKD DISP.
+
+SIGNATURE
+
+未经CEI和EcoCeres书面许可，不得以任何方式复制或用于与本
+项目无关的其它用途！
+Please keep confidential unless permitted by CEI
+and EcoCeres

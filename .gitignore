@@ -1,0 +1,43 @@
+# macOS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.~*
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Common temporary / generated folders
+tmp/
+outputs/
+dist/
+build/
+
+# Project-specific generated assets
+排产/遗传算法/output_files/
+排产/公司管理/tmp-playwright-debug/
+排产/公司管理/tmp-playwright-downloads/
+排产/公司管理/tmp-raw-md-bundles/
+排产/公司管理/tmp-raw-md-bundles-08/
+排产/公司管理/tmp-raw-md-bundles-sized/
+
+# Local auth / browser profiles
+排产/公司管理/.auth/
+
+# Embedded repository kept out of the parent repo
+排产/公司管理/
